@@ -14,6 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claoliveira89&show_icons=true&locale=en&layout=compact" alt="claoliveira89" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claoliveira89&show_icons=true&locale=en" alt="claoliveira89" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claoliveira89&" alt="claoliveira89" /></p>
-
